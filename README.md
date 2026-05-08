@@ -1,3 +1,3 @@
 # College_Project
-This is my School Management System
+This project is  School Management System. 
 
